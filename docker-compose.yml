@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  cqrs_mediator:
+    image: ${DOCKER_REGISTRY-}cqrsmediator
+    build:
+      context: .
+      dockerfile: CQRS_Mediator/Dockerfile

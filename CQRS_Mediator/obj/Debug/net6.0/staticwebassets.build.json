@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0x3eb7cyqhc93TeiiBthKp0NrEqXS98a7w7n5E/j3CI=",
+  "Source": "CQRS_Mediator",
+  "BasePath": "_content/CQRS_Mediator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
